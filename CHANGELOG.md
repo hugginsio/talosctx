@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/hugginsio/talosctx/compare/v0.1.3...v0.1.4) (2025-09-07)
+
+
+### Bug Fixes
+
+* force go version used in actions ([#9](https://github.com/hugginsio/talosctx/issues/9)) ([6f85038](https://github.com/hugginsio/talosctx/commit/6f850388c1f88fb874f5b5f8114e3f9596de8b2c))
+
 ## [0.1.3](https://github.com/hugginsio/talosctx/compare/v0.1.2...v0.1.3) (2025-09-07)
 
 
