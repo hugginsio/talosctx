@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.8](https://github.com/hugginsio/talosctx/compare/v0.1.7...v0.1.8) (2025-09-07)
+
+
+### Bug Fixes
+
+* remove quarantine bit with hook ([#17](https://github.com/hugginsio/talosctx/issues/17)) ([aa8978e](https://github.com/hugginsio/talosctx/commit/aa8978e116a2970b3d478f0a0782e8d818a0f988))
+
 ## [0.1.7](https://github.com/hugginsio/talosctx/compare/v0.1.6...v0.1.7) (2025-09-07)
 
 
