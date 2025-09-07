@@ -10,6 +10,7 @@ require (
 )
 
 require (
+	github.com/adrg/xdg v0.5.3
 	github.com/containerd/go-cni v1.1.13 // indirect
 	github.com/containernetworking/cni v1.3.0 // indirect
 	github.com/gdamore/encoding v1.0.1 // indirect

@@ -4,6 +4,9 @@
 version: 3
 
 tasks:
+  build:
+    desc: build binary with goreleaser
+    cmd: "goreleaser build --snapshot --clean --single-target"
   clean:
     desc: Clean caches and build files
     cmds:
