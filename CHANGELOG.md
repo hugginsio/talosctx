@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/hugginsio/talosctx/compare/v0.1.2...v0.1.3) (2025-09-07)
+
+
+### Bug Fixes
+
+* update goreleaser to use homebrew_casks ([#7](https://github.com/hugginsio/talosctx/issues/7)) ([c63fbe3](https://github.com/hugginsio/talosctx/commit/c63fbe3d519cbb09df83a8434563be590066ea21))
+
 ## [0.1.2](https://github.com/hugginsio/talosctx/compare/v0.1.1...v0.1.2) (2025-09-07)
 
 
