@@ -1,0 +1,24 @@
+# https://taskfile.dev
+# yaml-language-server: $schema=https://taskfile.dev/schema.json
+
+version: 3
+
+tasks:
+  clean:
+    desc: Clean caches and build files
+    cmds:
+      - "go clean -cache"
+      - "go clean -modcache"
+      - "go clean -testcache"
+  cli:
+    desc: Run the CLI in development mode
+    cmd: "go run . {{.CLI_ARGS}}"
+    env:
+      DEVEL: true
+  lint:
+    desc: Lint all files
+    cmds:
+      - "golangci-lint run"
+  test:
+    desc: Run all tests
+    cmd: "go test -cover ./..."
