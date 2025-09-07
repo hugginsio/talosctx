@@ -44,11 +44,9 @@ release:
     name: talosctx
   target_commitish: "{{ .Commit }}"
   include_meta: false
-brews:
-  - repository:
+homebrew_casks:
+  - description: "Faster context switching for `talosctl`"
+    repository:
       owner: hugginsio
       name: homebrew-tap
-    directory: Formula
-    homepage: https://huggins.dev/dev
-    test: |-
-      system "#{bin}/talosctx -h"
+    homepage: "https://huggins.dev/talosctx"
