@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/hugginsio/talosctx/compare/v0.1.1...v0.1.2) (2025-09-07)
+
+
+### Bug Fixes
+
+* add Goreleaser arg ([#5](https://github.com/hugginsio/talosctx/issues/5)) ([b2692c4](https://github.com/hugginsio/talosctx/commit/b2692c49cd767d1fc06e69bb39383524ab39d874))
+
 ## [0.1.1](https://github.com/hugginsio/talosctx/compare/v0.1.0...v0.1.1) (2025-09-07)
 
 
