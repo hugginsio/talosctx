@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/hugginsio/talosctx/compare/v0.1.4...v0.1.5) (2025-09-07)
+
+
+### Bug Fixes
+
+* allow release job to update releases ([#11](https://github.com/hugginsio/talosctx/issues/11)) ([0af2ec1](https://github.com/hugginsio/talosctx/commit/0af2ec187d80a4df8f0f59bced62d403f71027c9))
+
 ## [0.1.4](https://github.com/hugginsio/talosctx/compare/v0.1.3...v0.1.4) (2025-09-07)
 
 
