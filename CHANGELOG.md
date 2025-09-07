@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/hugginsio/talosctx/compare/v0.1.0...v0.1.1) (2025-09-07)
+
+
+### Bug Fixes
+
+* use GitHub App for release ([#3](https://github.com/hugginsio/talosctx/issues/3)) ([99cf249](https://github.com/hugginsio/talosctx/commit/99cf2494a08e365dbaca8ac32851d727c0afd6d7))
+
 ## 0.1.0 (2025-09-07)
 
 
