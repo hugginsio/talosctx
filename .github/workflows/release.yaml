@@ -15,6 +15,7 @@ jobs:
         with:
           app-id: ${{ vars.APP_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
       - uses: "actions/checkout@v5.0.0"
       - uses: "actions/setup-go@v6.0.0"
         with:
