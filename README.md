@@ -20,6 +20,16 @@ $> talosctx -
 Switched to context "i-love-fzf".
 ```
 
+## Installing
+
+`talosctx` is available in Homebrew:
+
+```
+brew install hugginsio/tap/talosctx
+```
+
+Alternatively, you can download binaries for your platform from [the latest release](https://github.com/hugginsio/talosctx/releases/latest).
+
 ## Configuration
 
 Currently, there is no configuration. `talosctx` uses the same logic as `talosctl` to determine where your configuration file is located. At the time of writing, the following filepaths are checked:
