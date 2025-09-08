@@ -22,11 +22,10 @@ Switched to context "i-love-fzf".
 
 ## Installing
 
-`talosctx` is available in Homebrew:
+`talosctx` is available in the following package managers for most operating systems:
 
-```
-brew install hugginsio/tap/talosctx
-```
+- Homebrew: `brew install hugginsio/tap/talosctx`
+- Scoop: `scoop bucket add hugginsio https://github.com/hugginsio/scoop-bucket; scoop install hugginsio/talosctx`
 
 Alternatively, you can download binaries for your platform from [the latest release](https://github.com/hugginsio/talosctx/releases/latest).
 
