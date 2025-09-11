@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/hugginsio/talosctx/compare/v0.2.0...v0.2.1) (2025-09-11)
+
+
+### Bug Fixes
+
+* add completions to archive ([418cda0](https://github.com/hugginsio/talosctx/commit/418cda0a9d1b8133881c3a5508afa4e1d864034e))
+
 ## [0.2.0](https://github.com/hugginsio/talosctx/compare/v0.1.8...v0.2.0) (2025-09-11)
 
 
