@@ -1,7 +1,7 @@
 github.com/adrg/xdg v0.5.3 h1:xRnxJXne7+oWDatRhR1JLnvuccuIeCoBu2rtuLqQB78=
 github.com/adrg/xdg v0.5.3/go.mod h1:nlTsY+NNiCBGCK2tpm09vRqfVzrc2fLmXGpBLF0zlTQ=
-github.com/caarlos0/go-version v0.2.1 h1:bJY5WRvs2RXErLKBELd1WR0U72whX8ELbKg0WtQ9/7A=
-github.com/caarlos0/go-version v0.2.1/go.mod h1:X+rI5VAtJDpcjCjeEIXpxGa5+rTcgur1FK66wS0/944=
+github.com/caarlos0/go-version v0.2.2 h1:5r+nlrg4H2wOVwWjqRqRRIRbZ7ytRmjC9xoMIP0a5kQ=
+github.com/caarlos0/go-version v0.2.2/go.mod h1:X+rI5VAtJDpcjCjeEIXpxGa5+rTcgur1FK66wS0/944=
 github.com/containerd/go-cni v1.1.13 h1:eFSGOKlhoYNxpJ51KRIMHZNlg5UgocXEIEBGkY7Hnis=
 github.com/containerd/go-cni v1.1.13/go.mod h1:nTieub0XDRmvCZ9VI/SBG6PyqT95N4FIhxsauF1vSBI=
 github.com/containernetworking/cni v1.3.0 h1:v6EpN8RznAZj9765HhXQrtXgX+ECGebEYEmnuFjskwo=
