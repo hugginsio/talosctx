@@ -5,11 +5,15 @@ version: 2
 updates:
   - package-ecosystem: github-actions
     directory: ".github/"
-    schedule: &weekly
+    schedule:
       interval: weekly
       day: friday
       time: "17:00"
       timezone: "America/Chicago"
   - package-ecosystem: gomod
     directory: "/"
-    schedule: *weekly
+    schedule:
+      interval: weekly
+      day: friday
+      time: "17:00"
+      timezone: "America/Chicago"
