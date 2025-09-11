@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://www.schemastore.org/dependabot-2.0.json
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: ".github/"
+    schedule: &weekly
+      interval: weekly
+      day: friday
+      time: "17:00"
+      timezone: "America/Chicago"
+  - package-ecosystem: gomod
+    directory: "/"
+    schedule: *weekly
