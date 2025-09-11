@@ -15,7 +15,7 @@ Switched to context "i-love-fzf".
 $> talosctx hyper
 Switched to context "hyper".
 
-# switch to the previous conttxt
+# switch to the previous context
 $> talosctx -
 Switched to context "i-love-fzf".
 ```
