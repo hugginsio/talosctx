@@ -6,7 +6,7 @@ require (
 	github.com/caarlos0/go-version v0.2.2
 	github.com/ktr0731/go-fuzzyfinder v0.9.0
 	github.com/siderolabs/talos/pkg/machinery v1.11.5
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 )
 
 require (
