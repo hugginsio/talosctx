@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/hugginsio/talosctx/compare/v0.2.1...v0.2.2) (2026-02-14)
+
+
+### Bug Fixes
+
+* typo in README ([43f41e8](https://github.com/hugginsio/talosctx/commit/43f41e8410fd5715cc24eb4bc58e097eb02f5f5e))
+
 ## [0.2.1](https://github.com/hugginsio/talosctx/compare/v0.2.0...v0.2.1) (2025-09-11)
 
 
