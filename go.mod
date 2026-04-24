@@ -5,7 +5,7 @@ go 1.25.3
 require (
 	github.com/caarlos0/go-version v0.2.2
 	github.com/ktr0731/go-fuzzyfinder v0.9.0
-	github.com/siderolabs/talos/pkg/machinery v1.12.6
+	github.com/siderolabs/talos/pkg/machinery v1.12.7
 	github.com/spf13/cobra v1.10.2
 )
 
