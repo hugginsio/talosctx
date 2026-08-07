@@ -1,11 +1,11 @@
 module github.com/hugginsio/talosctx
 
-go 1.26.1
+go 1.26.5
 
 require (
 	github.com/caarlos0/go-version v0.2.2
 	github.com/ktr0731/go-fuzzyfinder v0.9.0
-	github.com/siderolabs/talos/pkg/machinery v1.13.5
+	github.com/siderolabs/talos/pkg/machinery v1.13.8
 	github.com/spf13/cobra v1.10.2
 )
 
