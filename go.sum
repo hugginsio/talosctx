@@ -58,8 +58,8 @@ github.com/sasha-s/go-deadlock v0.3.6 h1:TR7sfOnZ7x00tWPfD397Peodt57KzMDo+9Ae9rM
 github.com/sasha-s/go-deadlock v0.3.6/go.mod h1:CUqNyyvMxTyjFqDT7MRg9mb4Dv/btmGTqSR+rky/UXo=
 github.com/siderolabs/crypto v0.6.5 h1:Elq5tpWP2ApZ4Y+Kg+eIDiiWbmriCPI1mjYIMwvsYkw=
 github.com/siderolabs/crypto v0.6.5/go.mod h1:QjVcrdJQE1sxhjHqieCgwGdlIYq/xCP2DL53Up8nbU4=
-github.com/siderolabs/talos/pkg/machinery v1.13.5 h1:lTgyxR2o//Ppi9rmIC6RPO3UDZBVzCM7MrsU+OKVF+o=
-github.com/siderolabs/talos/pkg/machinery v1.13.5/go.mod h1:RdU2CNuyxPLXpxVYgJlK3XxIw0QIleSR3I8T+x1cxZU=
+github.com/siderolabs/talos/pkg/machinery v1.13.9 h1:4Qch4CVfhT3C48PfiIFXYa1LAhSWA6o7NmrEO2bsLlg=
+github.com/siderolabs/talos/pkg/machinery v1.13.9/go.mod h1:Ksw0+dndjKS0t1hJlkOfzNdv8KWY0g8En1rJZ0zB9YY=
 github.com/spf13/cobra v1.10.2 h1:DMTTonx5m65Ic0GOoRY2c16WCbHxOOw6xxezuLaBpcU=
 github.com/spf13/cobra v1.10.2/go.mod h1:7C1pvHqHw5A4vrJfjNwvOdzYu0Gml16OCs2GRiTUUS4=
 github.com/spf13/pflag v1.0.9/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
